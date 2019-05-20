@@ -3,7 +3,7 @@
 #kitty-1 {
   position: absolute;
   z-index: 1;
-  top: 176px;
+  top: 276px;
   left: 129px;
 }
 
@@ -12,7 +12,7 @@
 #kitty-2 {
   position: absolute;
   z-index: 2;
-  top: 112px;
+  top: 212px;
   left: 369px;
 }
 
@@ -21,7 +21,7 @@
 #basket {
   position: absolute;
   z-index: 5;
-  top: 191px;
+  top: 291px;
   left: 319px;
 }
 
